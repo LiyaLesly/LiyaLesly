@@ -41,8 +41,6 @@ To grow as a software developer, build meaningful applications, and continuously
 
 ---
 
-Thanks for visiting my profile! 😊
-
 ## 🚀 Projects
 
 ### 🚗 Vehicle Service Management – Azure Integration
@@ -55,3 +53,5 @@ A vehicle service booking application built using ASP.NET Core (.NET 8), with Az
 
 - LinkedIn: [Liya Lesly](https://www.linkedin.com/in/liya-lesly/)
 - GitHub: [LiyaLesly](https://github.com/LiyaLesly)
+
+Thanks for visiting my profile! 😊
