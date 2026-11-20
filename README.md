@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Liya Lesly 👋
 
-<!--
-**LiyaLesly/LiyaLesly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .NET Developer | ASP.NET Core | Azure
 
-Here are some ideas to get you started:
+I'm a .NET developer trainee passionate about building backend applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After a career break, I restarted my journey in software development and am continuously improving my skills through hands-on projects and practical experience.
+
+### 🛠️ Technologies I'm Working With
+
+- C# and .NET
+- ASP.NET Core MVC & Web API
+- Entity Framework Core
+- SQL Server
+- Clean Architecture
+- REST APIs
+- JWT Authentication
+- Azure Service Bus
+- Azure Communication Services
+- Git & GitHub
+
+### 🚀 Featured Project
+
+**Vehicle Service Management – Azure Integration**
+
+A vehicle service booking application built using ASP.NET Core (.NET 8), with Azure integration for background processing and email notifications.
+
+🔗 [View Project](https://github.com/LiyaLesly/Vehicle-Service-using-Azure)
+
+### 📚 Currently Learning
+
+- Clean Architecture and layered application design
+- Advanced .NET Web API development
+- Azure cloud integration
+- Background services and asynchronous messaging
+- Building scalable backend applications
+
+### 🎯 My Goal
+
+To grow as a software developer, build meaningful applications, and continuously improve my technical skills.
+
+---
+
+Thanks for visiting my profile! 😊
