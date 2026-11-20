@@ -50,3 +50,8 @@ A vehicle service booking application built using ASP.NET Core (.NET 8), with Az
 
 - **Technologies:** C#, ASP.NET Core, Azure Service Bus, Azure Communication Services
 - [View Repository](https://github.com/LiyaLesly/Vehicle-Service-using-Azure)
+
+## 📫 Connect with Me
+
+- LinkedIn: [Liya Lesly](https://www.linkedin.com/in/liya-lesly/)
+- GitHub: [LiyaLesly](https://github.com/LiyaLesly)
